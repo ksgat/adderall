@@ -1,6 +1,6 @@
 # adderall
 
-Amphetamine but for windows
+Caffeinate but for windows
 
 ## Install
 
